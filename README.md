@@ -31,7 +31,7 @@ I am a Software Developer with a foundation in **Python** and **Data Analytics**
 ### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/rohitwaghire](https://linkedin.com/in/rohitwaghire/)
-* **Portfolio:** [Link to your portfolio if you have one](https://rohitwaghire.carrd.co/)
+* **profile:** [Here](https://rohitwaghire.carrd.co/)
 
 ---
 
