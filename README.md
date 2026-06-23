@@ -1,6 +1,6 @@
-# Hi there, I'm Rohit Waghire! 👋
+# Hi, I'm Rohit Waghire! 👋
 
-**Computer Science Graduate | Software Developer | AI-Assisted Development Enthusiast**
+**Computer Science Graduate | Software Developer | AI-Agentic Development**
 
 I'm a Computer Science graduate with a foundation in software development and prompt engineering. I'm passionate about leveraging **AI tools** to accelerate development and solve real-world problems.
 
@@ -9,8 +9,8 @@ I'm a Computer Science graduate with a foundation in software development and pr
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, Java, Kotlin, JavaScript, SQL
-* **AI & LLMs:** Gemini, Claude, ChatGPT, Prompt Engineering
-* **Dev Tools:** VS Code, Cursor, Bolt
+* **AI & LLMs:** Gemini, Claude-Code, ChatGPT, Prompt Engineering
+* **Dev Tools:** Antigarvity, VS Code, Cursor 
 * **Data & Analytics:** Power BI, Excel
 
 ---
@@ -38,7 +38,6 @@ Recovers deleted photos, videos, audio, and documents via a deep scan of local c
 ### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/rohitwaghire](https://linkedin.com/in/rohitwaghire/)
-* **Profile:** [rohitwaghire.carrd.co](https://rohitwaghire.carrd.co/)
 
 ---
 
