@@ -35,10 +35,4 @@ Recovers deleted photos, videos, audio, and documents via a deep scan of local c
 
 ---
 
-### 📫 Connect with Me
-
-* **LinkedIn:** [linkedin.com/in/rohitwaghire](https://linkedin.com/in/rohitwaghire/)
-
----
-
 *"Actively reading books and learning cutting-edge technologies."*
