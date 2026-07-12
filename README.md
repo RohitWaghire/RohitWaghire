@@ -2,8 +2,6 @@
 
 **Computer Science Graduate | Software Developer | AI-Agentic Development**
 
-![Profile views](https://komarev.com/ghpvc/?username=RohitWaghire&label=Profile%20views&color=0e75b6&style=flat)
-
 I'm a Computer Science graduate with a foundation in software development and prompt engineering. I'm passionate about leveraging **AI tools** to accelerate development and solve real-world problems.
 
 ---
@@ -38,3 +36,7 @@ Recovers deleted photos, videos, audio, and documents via a deep scan of local c
 ---
 
 *"Actively reading books and learning cutting-edge technologies."*
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=RohitWaghire&label=Profile%20views&color=0e75b6&style=flat)
