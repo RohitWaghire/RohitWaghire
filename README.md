@@ -12,7 +12,7 @@ I'm a Computer Science graduate with a foundation in software development and pr
 
 * **Languages:** Python, Java, Kotlin, JavaScript, SQL
 * **AI & LLMs:** Gemini, Claude-Code, ChatGPT, Prompt Engineering
-* **Dev Tools:** Antigarvity, VS Code, Cursor 
+* **Dev Tools:** Antigravity, VS Code, Cursor
 * **Data & Analytics:** Power BI, Excel
 
 ---
