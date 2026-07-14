@@ -9,7 +9,7 @@ I'm a Computer Science graduate with a foundation in software development and pr
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, Java, Kotlin, JavaScript, SQL
-* **AI & LLMs:** Gemini, Claude-Code, ChatGPT, Prompt Engineering
+* **AI & LLMs:** Gemini, Claude-Code, Codex, Agentic Engineering
 * **Dev Tools:** Antigravity, VS Code, Cursor
 * **Data & Analytics:** Power BI, Excel
 
