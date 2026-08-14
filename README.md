@@ -2,14 +2,14 @@
 
 **Computer Science Graduate | Software Developer | AI-Agentic Development**
 
-I'm a Computer Science graduate with a foundation in software development and prompt engineering. I'm passionate about leveraging **AI tools** to accelerate development and solve real-world problems.
+I'm a Computer Science graduate with a foundation in software development and prompt engineering. I'm passionate about leveraging **AI Harness** to accelerate development and solve real-world problems.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, Java, Kotlin, JavaScript, SQL
-* **AI & LLMs:** Gemini, Claude-Code, Codex, Agentic Engineering
+* **Languages:** Python, Java, JavaScript, SQL
+* **AI & LLMs:** OpenCode, Claude-Code, Codex, Agentic Engineering
 * **Dev Tools:** Antigravity, VS Code, Cursor
 * **Data & Analytics:** Power BI, Excel
 
