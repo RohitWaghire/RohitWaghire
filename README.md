@@ -1,8 +1,8 @@
 # Hi, I'm Rohit Waghire! 👋
 
-**Computer Science Graduate | Software Developer | AI-Agentic Development**
+**Software Developer | AI-Agentic Development**
 
-I'm a Computer Science graduate with a foundation in software development and prompt engineering. I'm passionate about leveraging **AI Harness** to accelerate development and solve real-world problems.
+I'm a indie developer with a foundation in software development and prompt engineering. I'm passionate about leveraging **AI Harness** to accelerate development and solve real-world problems.
 
 ---
 
@@ -26,7 +26,7 @@ Intelligence tool that identifies accounts across 120+ websites (including Twitt
 *Python, Web Scraping*
 
 #### 🏢 [Tender Management System](https://github.com/RohitWaghire/Tender-Management-System)
-Full-stack platform (final-year project) to streamline tendering — from creating and publishing tenders to evaluating bids and awarding contracts.
+Full-stack platform to streamline tendering — from creating and publishing tenders to evaluating bids and awarding contracts.
 *Java*
 
 #### 🗂️ [File Recovery Deep Scan](https://github.com/RohitWaghire/File-Recovery-Deep-Scan)
